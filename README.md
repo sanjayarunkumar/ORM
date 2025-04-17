@@ -44,11 +44,9 @@ class Movie(models.Model):
 
 class MovieAdmin(admin.ModelAdmin):
     list_display = ('title', 'director', 'release_date', 'genre', 'rating', 'duration')
-    ```
+```
 
 ## OUTPUT
-
-
 
 Screenshot 2025-04-17 092637.png
 
