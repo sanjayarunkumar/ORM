@@ -47,8 +47,7 @@ class MovieAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
-Screenshot 2025-04-17 092637.png
+![alt text](<Screenshot 2025-04-17 092637.png>)
 
 
 ## RESULT
